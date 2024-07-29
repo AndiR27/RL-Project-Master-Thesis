@@ -1,0 +1,4 @@
+wandb
+gymnasium
+torch
+numpy
