@@ -27,6 +27,7 @@ def test_torch():
     else:
         print("CUDA is not available. Running on CPU.")
 
+
 if __name__ == "__main__":
     print(os.environ.get('CONDA_PREFIX'))
     test_torch()
