@@ -118,4 +118,3 @@ Pour toute question, vous pouvez me contacter à l'adresse suivante : [andi.rami
 
 ---
 
-Cet exemple de README fournit des instructions claires sur l'installation, la structure du projet, l'utilisation des scripts, ainsi qu'une explication du projet et des algorithmes étudiés. Vous pouvez personnaliser davantage les sections en fonction de vos besoins spécifiques.
