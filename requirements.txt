@@ -1,4 +1,10 @@
-wandb
-gymnasium
-torch
-numpy
+ale-py==0.8.1
+AutoROM==0.4.2
+gym==0.26.2  # or gymnasium if you're using the newer version
+numpy==1.26.4
+torch==2.3.1
+torchaudio==2.4.0
+torchvision==0.16.0
+tqdm==4.66.4
+wandb==0.17.5
+protobuf==5.27.3
