@@ -1,4 +1,4 @@
-# Projet RL pour une Thèse de Master - DQN, PPO, SAC
+# Projet RL pour Thèse de Master - DQN, PPO, SAC
 
 Ce projet est développé dans le cadre d'une thèse de master à la Haute École de Gestion. L'objectif principal est d'explorer et de comparer plusieurs algorithmes d'apprentissage par renforcement (Reinforcement Learning - RL) appliqués à des environnements de simulation, tels que **CartPole-v1** et **Breakout**.
 
